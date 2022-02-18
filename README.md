@@ -9,6 +9,7 @@ I go by @holyshif on social media and @ho1yshif (with a 1 for the l) on GitHub!
 - 💻 Incoming **Business Analyst Summer Intern** at ServiceNow HQ in Santa Clara, CA
 
 I'm here to build open-source machine learning and data science projects, and to share my programming journey.
+Currently, I'm working on an independent study in a private repository; I'm excited to make it public soon and begin contributing to this incredible communnity.
 
 Thanks for coming along for the ride!
 
