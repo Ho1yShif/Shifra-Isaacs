@@ -5,7 +5,7 @@ I go by @holyshif on social media and @ho1yshif (with a 1 for the l) on GitHub!
 - 👩‍🎓 **Student** at Rutgers Business School in NJ, USA graduating December 2022
 - 📊 **Major** in Business Analytics and Information Technology (BAIT) with a focus on data science oriented coursework
 - 🎹 **Minor** in Music Technology and **Certificate** in Women's Business Leadership
-- 🏦 **AI and Data Science Intern** at J.P.Morgan Chase & Co in Palo Alto, CA
+- 🏦 **AI and Data Science Intern** at J.P. Morgan Chase & Co in Palo Alto, CA
 
 I'm here to build open-source machine learning and data science projects, and to share my programming journey.
 Currently, I'm working on an independent study in a private repository; I'm excited to make it public soon and begin contributing to this incredible communnity.
